@@ -1,16 +1,10 @@
-# portfolio
+
+Data Science & Analytics Portfolio
+John "Ashton" Dunn 
 
 ### Education
 - BS, Business Analytics University of Tennessee, Knoxville
-- MS Candidate 2025, Business Analytics University of Tennessee, Knoxville 
-
-### Projects
-NFL Big Data
-
-- [**NFL Play Predictor**](https://github.com/DunnAnalytics/NFLBigData): A project predicting NFL plays using machine learning.
-
-
-
+- MS, Business Analytics Class of 2025 Candidate University of Tennessee, Knoxville
 
 ## My Projects
 
