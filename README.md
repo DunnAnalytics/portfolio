@@ -6,3 +6,5 @@
 
 ### Projects
 NFL Big Data
+
+- [**NFL Play Predictor**](https://github.com/DunnAnalytics/NFLBigData): A project predicting NFL plays using machine learning.
