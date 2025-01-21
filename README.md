@@ -1,5 +1,4 @@
-
-#Data Science & Analytics Portfolio
+# Data Science & Analytics Portfolio
 
 ### Education
 - BS, Business Analytics University of Tennessee, Knoxville
