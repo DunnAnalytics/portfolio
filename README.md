@@ -21,6 +21,3 @@
 
 
 </div>
-
-
-https://github.com/DunnAnalytics/Crypto-price-prediction/tree/main
