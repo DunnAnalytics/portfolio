@@ -1,28 +1,50 @@
-# Data Science & Analytics Portfolio
+# **Data Science & Analytics Portfolio** 📊  
 
-### Education
-- BS, Business Analytics University of Tennessee, Knoxville
-- MS, Business Analytics Class of 2025 Candidate University of Tennessee, Knoxville
+## **👨‍🎓 Education**
+🎓 **BS, Business Analytics** – University of Tennessee, Knoxville  
+📖 **MS, Business Analytics (Candidate, Class of 2025)** – University of Tennessee, Knoxville  
 
-## My Projects
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+## **📂 Featured Projects**
 
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 300px;">
-    <h3><a href="https://github.com/DunnAnalytics/NFLBigData">NFL Play Predictor</a></h3>
-    <p>🏈 Predict NFL plays using machine learning.</p>
-    <p><strong>Tech:</strong> R </p>
-  </div>
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 300px;">
-    <h3><a href="https://github.com/DunnAnalytics/Crypto-price-prediction/tree/main">Cryptocurrency Price Prediction</a></h3>
-    <p> 🪙 Predict Bitcoin prices from historical data.</p>
-    <p><strong>Tech:</strong> Python </p>
-    </div>
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 300px;">
-    <h3><a href="https://public.tableau.com/shared/3WJSQN93H?:display_count=n&:origin=viz_share_link">Example Tableau Dashboard</a></h3>
-    <p> Tableau dashboard displaying donor information from an unspecified university.</p>
-    <p><strong>Tech:</strong> Tableau </p>
+<table>
+  <tr>
+    <td align="center">
+      <h3><a href="https://github.com/DunnAnalytics/NFLBigData">🏈 NFL Play Predictor</a></h3>
+      <p>Predict NFL plays using machine learning.</p>
+      <strong>Tech:</strong> R  
+    </td>
+    <td align="center">
+      <h3><a href="https://github.com/DunnAnalytics/Crypto-price-prediction/tree/main">🪙 Cryptocurrency Price Prediction</a></h3>
+      <p>Predict Bitcoin prices from historical data.</p>
+      <strong>Tech:</strong> Python  
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3><a href="https://public.tableau.com/shared/3WJSQN93H?:display_count=n&:origin=viz_share_link">📊 Tableau Dashboard</a></h3>
+      <p>Interactive dashboard displaying donor information.</p>
+      <strong>Tech:</strong> Tableau  
+    </td>
+    <td align="center">
+      <h3><a href="https://github.com/DunnAnalytics/CorporatePartnersPres/tree/main">📑 Term Deposit Subscriptions Presentation</a></h3>
+      <p>Presentation communicating data-driven insights.</p>
+      <strong>Tech:</strong> Tableau, PowerPoint, R  
+    </td>
+  </tr>
+</table>
 
-  </div>
+---
 
+## **🔗 Connect With Me**  
+
+<a href="https://www.linkedin.com/in/ashtondunn/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+---
+
+### **About This Portfolio**  
+This GitHub portfolio serves as a central hub for my **data science and analytics projects**, highlighting my skills in **machine learning, data visualization, and predictive modeling**. Explore my work and connect with me! 🚀
 
